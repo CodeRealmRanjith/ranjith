@@ -1,7 +1,9 @@
 <h1 align="center">Hello World! 👋 I'm Ranjithkumar R</h1>
 
 <img width="100%" align="center" src="https://github.com/CodeRealmRanjith/ranjith/blob/main/github-header-image.png" />
-
+<p align="center">
+  <em>Passionate PHP Developer | Laravel & CodeIgniter Expert | eCommerce & CRM Innovator</em>
+</p>
 <h5 align="center">Welcome to my GitHub! I'm a PHP dev with 2 years' experience, adept in Laravel, CodeIgniter, crafting robust eCommerce, CRM, & RESTful API solutions. Explore my portfolio for custom projects, seamless user experiences, & third-party integrations. Let's innovate together!</h5><br>
 
 <img width="30%" align="right" src="https://github.com/CodeRealmRanjith/ranjith/blob/main/IMG_20240127_190100.jpg" /><br>
